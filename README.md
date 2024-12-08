@@ -10,12 +10,13 @@
 </p>
 
 ---
-
-👨‍💻 **Currently Open to Work**  
-📍 Based in New York City  
-📡 Flexible for on-site or remote opportunities
-
-🌐 **[Check Out My Portfolio](https://yuteoctober.github.io/wins95Portfolio/)**  
+<p align="center">
+  👨‍💻 <strong>Currently Open to Work</strong><br/>
+  📍 Based in New York City<br/>
+  📡 Flexible for on-site or remote opportunities<br/>
+  <br/>
+  🌐 <a href="https://yuteoctober.github.io/wins95Portfolio/"><strong>Check Out My Portfolio</strong></a>
+</p>
 
 ---
 
