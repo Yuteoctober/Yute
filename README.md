@@ -8,8 +8,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76872840/203872564-d4f24e25-6b59-4d2a-bc93-7c88a5e6a2d7.gif" alt="Welcome" width="300"/>
 </p>
-
----
 <p align="center">
   👨‍💻 <strong>Currently Open to Work</strong><br/>
   📍 Based in New York City<br/>
@@ -71,7 +69,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76872840/203874154-d7fbb4d8-c689-4c2c-a43a-d813ab6aa37e.gif" alt="Thank You" width="200"/>
-</p>
-<h3 align="center">Thanks for visiting my profile! 😊</h3>
